@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int LAYOUT = R.layout.activity_main;
 
     private Toolbar toolbar;
-    private DrawerLayout drawerLayout;
+    public DrawerLayout drawerLayout;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
